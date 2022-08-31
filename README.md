@@ -16,6 +16,8 @@ The prerequisites needed to successfully run this project are:
 
     * Twitter API and Elevated Access.
         Twitter API and having an Elevated Developer Account helps scrape data from twitter. 
+        
+    * The requirements and dependancies can found in the requirement.txt file    
 
 ## 3. Project Context
 
