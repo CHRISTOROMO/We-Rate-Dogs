@@ -55,7 +55,7 @@ This file (image_predictions.tsv) is present in each tweet according to a neural
 
 **iii). Twitter API**
 
-We shall also use Twitter API to get additional data for the Project
+We used Twitter API to get additional data for the Project
 
 ## 6. License
 
